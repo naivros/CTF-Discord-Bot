@@ -1,2 +1,2 @@
 # CTF-Discord-Bot
-A Bot to manage discord servers for CTF Competitions
+## Please pull the original from S1gm0idCTF/CTF-Discord-Bot
